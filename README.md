@@ -55,4 +55,34 @@ requisitos para que se desenvolva os conhecimentos adquiridos durante o tempo da
 </ul>
 </li>
 </ol>
-  
+<h3>Atividade Prática Exercício 4</h3>
+<ol>
+<li><p>Deve-se codificar uma função cadastrarProduto</p>
+<ul>
+<li>Essa função recebe como parâmetro um código exclusivo para cada produto cadastrado</li>
+<li>Dentro da função perguntar o nome do produto</li>
+<li>Dentro da função perguntar o fabricante do produto</li>
+<li>Dentro da função perguntar o valor do produto</li>
+<li>Cada produto cadastrado deve ter os seus dados armazenados num dicionário</li>
+</ul>
+</li>
+<li>
+<p>Deve-se codificar uma função consultarProduto</p>
+<ul>
+<li>Dentro da função ter um menu com as seguintes opções: 
+<ul>
+<li>Consultar Todos os Produtos</li>
+<li>Consultar Produtos por Código</li>
+<li>Consultar Produtos por Fabricante</li>
+<li>Retornar</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p> Deve-se codificar uma função chamada removerProduto</p>
+<ul>
+<li>Dentro da função perguntar qual o código do produto que se deseja remover do cadastro</li>
+</ul>
+</li>
+</ol>
